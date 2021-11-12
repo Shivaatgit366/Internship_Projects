@@ -1,0 +1,6 @@
+pandas
+spacy
+beautifulsoup4
+requests
+textstat
+nltk
